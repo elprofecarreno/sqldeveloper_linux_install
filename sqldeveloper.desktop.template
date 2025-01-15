@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Name=SQL Developer
+Comment=Oracle SQL Developer
+Exec=$HOME/sqldeveloper/sqldeveloper.sh
+Icon=$HOME/sqldeveloper/icon.png
+Terminal=false
+Type=Application
+Categories=Development;Database;"
